@@ -8,7 +8,7 @@ function Home() {
 function Users() {
 	return (
 		<div>
-			<h1>List Users</h1>
+			<h1>Lists Users</h1>
 			<ul>
 				<li>
 					<Link to="user/teguh">Teguh</Link>
