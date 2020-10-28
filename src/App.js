@@ -1,11 +1,11 @@
 import React, { Component } from "react"
-import Todo from "./components/TodoApp/Todo"
+import Routing from "./components/Routing"
 
 export class App extends Component {
   render() {
     return (
       <div>
-        <Todo />
+        <Routing />
       </div>
     )
   }
